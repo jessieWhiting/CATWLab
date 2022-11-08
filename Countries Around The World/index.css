@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Amiri|Roboto&display=swap');
-
+*{
+    text-align: center;
+}
 h2{
     font-family: 'Roboto', 'Amiri', 'Galada', sans-serif;
   }
-
+p {
+    padding: 40px;
+   
+    
+  }
 
 #Color1{
     background-color: red;
@@ -18,7 +24,3 @@ h2{
 }
 
 
-
-#CountryFlag{
-    width: 300px;
-}
